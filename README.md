@@ -1,5 +1,7 @@
 # Ember CLI Deploy Fastboot Build
 
+**This addon is currently compatible with Ember CLI Deploy 0.5.x only!**
+
 # What is this?
 
 An ember-cli-deploy plugin that builds the fastboot app to the local
