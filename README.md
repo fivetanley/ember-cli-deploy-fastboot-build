@@ -11,6 +11,9 @@ This plugin builds your application for FastBoot server-side rendering.
 
 The code was mainly extracted from Tom Dale's [Ember CLI Deploy Elastic Beanstalk Plugin](https://github.com/tomdale/ember-cli-deploy-elastic-beanstalk).
 
+In order to deploy the build generated from this addon to your FastBoot
+server, install the [FastBoot Deploy middleware](https://github.com/habdelra/ember-fastboot-deploy) to your FastBoot server.
+
 ## Installation
 
 `ember install ember-cli-deploy-fastboot-build`
